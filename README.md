@@ -1,4 +1,4 @@
-# kjvm.github.io
-welcome
+# https://kjxx.cc/
+Welcome
 
-[kjvm.github.io](https://kjvm.github.io/)
+
